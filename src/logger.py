@@ -20,6 +20,4 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-if __name__ == "__main__":
-    logging.info("Logging has been set up.")
-    print("Log file created at:", LOG_FILE_PATH)
+
